@@ -23,7 +23,6 @@ gcc program-name.c -o program-name
 Replace `program-name` with the name of the file you want to run.
 
 ## Author
-## Author
 **Md. Ismail**
 
 Software Engineering Student, NSTU | C, C++, DSA, Competitive Programming
